@@ -1,0 +1,19 @@
+newmtl dark
+Kd 0.235 0.259 0.392
+Ka 0 0 0
+Ks 0 0 0
+
+newmtl white
+Kd 0.925 0.941 1.000
+Ka 0 0 0
+Ks 0 0 0
+
+newmtl red
+Kd 0.941 0.329 0.408
+Ka 0 0 0
+Ks 0 0 0
+
+newmtl gold
+Kd 1.000 0.804 0.314
+Ka 0 0 0
+Ks 0 0 0
